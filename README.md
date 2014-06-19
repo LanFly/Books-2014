@@ -12,6 +12,12 @@
   <td class=xl1518732 width=391 style='width:293pt'>备注</td>
  </tr>
  <tr class=xl1518732 height=18 valign=middle style='height:13.5pt'>
+  <td height=18 class=xl1518732 style='height:13.5pt'>程序员，你伤不起</td>
+  <td class=xl6418732>9787115318343</td>
+  <td class=xl6518732>人民邮电出版社</td>
+  <td class=xl1518732>做工程项目的童鞋值得去看</td>
+ </tr>
+ <tr class=xl1518732 height=18 valign=middle style='height:13.5pt'>
   <td height=18 class=xl1518732 style='height:13.5pt'>Ajax权威指南</td>
   <td class=xl6418732>9787111272953</td>
   <td class=xl6518732>机械工业出版社</td>
